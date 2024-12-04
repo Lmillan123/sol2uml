@@ -29,7 +29,7 @@
     "cli-color": "^2.0.4",
     "commander": "^11.1.0",
     "convert-svg-to-png": "^0.6.4",
-    "debug": "^4.3.4",
+    "debug": "^4.3.7",
     "diff-match-patch": "^1.0.5",
     "ethers": "^6.13.1",
     "js-graph-algorithms": "^1.0.18",
